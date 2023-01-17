@@ -1,1 +1,1 @@
-# CodeClause_Clock_Application_with_GUI
+Clock Application with GUI
